@@ -1,2 +1,2 @@
 # PANDAS
-ipython notebooks for analyzing Twitter data
+ipython notebooks for analyzing Twitter data using PANDAS.
