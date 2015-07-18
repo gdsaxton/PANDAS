@@ -18,7 +18,7 @@ cd pandas-cookbook/cookbook
 ipython notebook
 ```
 
-A tab should open up in your browser at `http://localhost:8888
+A tab should open up in your browser at `http://localhost:8888`
 
 I hope you find these tutorials helpful. If so, then please share and spread the word and help build a community of PANDAS users. 
 
