@@ -12,6 +12,17 @@ For a more general set of PANDAS notebook tutorials, I'd recommend <a href="http
 ##Prerequisites
 As you may know from my other tutorials, I am a big fan of the free <a href="https://store.continuum.io/cshop/anaconda/" target=_blank>Anaconda version of Python 2.7</a>. It contains all of the prerequisites you need and will save you a lot of headaches getting your system set up. 
 
+```
+git clone https://github.com/jvns/pandas-cookbook.git
+cd pandas-cookbook/cookbook
+ipython notebook
+```
+
+A tab should open up in your browser at `http://localhost:8888
+
+I hope you find these tutorials helpful. If so, then please share and spread the word and help build a community of PANDAS users. 
+
+Happy coding!
 
 
 
