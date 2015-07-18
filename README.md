@@ -9,4 +9,9 @@ Also note that we are using the <a href="http://ipython.org/notebook.html" targe
 
 For a more general set of PANDAS notebook tutorials, I'd recommend <a href="http://jvns.ca/blog/2013/12/22/cooking-with-pandas/" target=_blank>this cookbook by Julia Evans</a>. I also have <a href="http://social-metrics.org/python-pandas-cookbook/" target=_blank>a growing list of "recipes"</a> that contains frequently used PANDAS commands.
 
+##Prerequisites
+As you may know from my other tutorials, I am a big fan of the free <a href="https://store.continuum.io/cshop/anaconda/" target=_blank>Anaconda version of Python 2.7</a>. It contains all of the prerequisites you need and will save you a lot of headaches getting your system set up. 
+
+
+
 
