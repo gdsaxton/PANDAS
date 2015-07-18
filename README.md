@@ -7,6 +7,6 @@ If you want to skip the data download and just use the sample data, but don't ye
 
 Also note that we are using the <a href="http://ipython.org/notebook.html" target=_blank>iPython notebook interactive computing framework</a> for running the code in this tutorial. If you're unfamiliar with this see this tutorial <a href="http://social-metrics.org/starting-on-python-2/" target=_blank>"Four Ways to Run your Code"</a>.
 
-For a more general set of PANDAS notebook tutorials, I'd recommend <a href="http://jvns.ca/blog/2013/12/22/cooking-with-pandas/" target=_blank>this one by Julia Evans</a>.
+For a more general set of PANDAS notebook tutorials, I'd recommend <a href="http://jvns.ca/blog/2013/12/22/cooking-with-pandas/" target=_blank>this cookbook by Julia Evans</a>. I also have <a href="http://social-metrics.org/python-pandas-cookbook/" target=_blank>a growing list of "recipes"</a> that contains frequently used PANDAS commands.
 
 
