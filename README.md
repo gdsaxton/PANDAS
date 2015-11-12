@@ -22,7 +22,11 @@ A tab containing links to all of the available chapters will open up in your bro
 
 Sample data for use in Chapter 1 can be found in the *data* folder.
 
-I hope you find these tutorials helpful. If so, then please share and spread the word and help build a community of PANDAS users. 
+I hope you find these tutorials helpful; please acknowledge the source in your own research papers if you’ve found them useful:
+
+    Saxton, Gregory D. (2015). Analyzing Big Data with Python. Buffalo, NY: http://social-metrics.org
+
+Also, please share and spread the word to help build a vibrant community of PANDAS users.
 
 Happy coding!
 
