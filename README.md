@@ -20,6 +20,7 @@ ipython notebook
 
 A tab containing links to all of the available chapters will open up in your browser at `http://localhost:8888`
 
+Sample data for use in Chapter 1 can be found in the *data* folder.
 I hope you find these tutorials helpful. If so, then please share and spread the word and help build a community of PANDAS users. 
 
 Happy coding!
